@@ -1,0 +1,2 @@
+rootProject.name='XcodeInventory'
+include ':app'
